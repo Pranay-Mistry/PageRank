@@ -1,0 +1,15 @@
+Compile:
+
+javac Main2805.java
+
+Run:
+
+java Main2805
+
+JRE version used:
+
+1.8.0_202-release-1483-b39 x86_64
+
+JVM:
+
+OpenJDK 64-Bit Server VM by JetBrains s.r.o
